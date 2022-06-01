@@ -113,6 +113,58 @@ background-color: #98c13d !important;
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
+.button3 {
+    background-color: #313b4e;
+    border: none;
+    color: #169dd5;
+    width: 500px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Arial";
+    font-size: 18px;
+    font-weight: 500;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 6px;
+    border: 1px solid #169dd5;
+}
+
+.button3:hover {
+    background-color: #313b4e;
+    color: red;
+    border: 1px solid red;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button4 {
+    background-color: #313b4e;
+    border: none;
+    color: #98c13d;
+    width: 500px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Arial";
+    font-size: 18px;
+    font-weight: 500;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 6px;
+    border: 1px solid #98c13d;
+}
+
+.button4:hover {
+    background-color: #313b4e;
+    color: red;
+    border: 1px solid red;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
 #myBtn {
   display: none;
   position: fixed;
@@ -120,7 +172,7 @@ background-color: #98c13d !important;
   right: 30px;
   z-index: 99;
   font-size: 18px;
-  border: 3px solid #169dd5;
+  border: 3px solid red;
   outline: none;
   background-color: #313b4e;
   color: #169dd5;
@@ -130,9 +182,9 @@ background-color: #98c13d !important;
 }
 
 #myBtn:hover {
-  background-color: #169dd5;  
-  color: #169dd5;
-  border: 3px solid red;
+  background-color: #00ab36;  
+  color: red;
+  border: 3px solid white;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
@@ -147,7 +199,7 @@ background-color: #98c13d !important;
 }
 
 .topnav a {
-  color: #169dd5;
+  color: red;
   padding: 20px 20px;
   text-decoration: none;
   font-family: "Arial";
@@ -156,21 +208,21 @@ background-color: #98c13d !important;
   display: block;
 }
 
-.topnav a.icon {
-  background: #313b4e;
+.topnav a.iconblock {
+  background: black;
   display: block;
   position: absolute;
   right: 0;
   top: 0;
   cursor: pointer;
   border-radius: 25px;
-  border: 3px solid #169dd5;
+  border: 3px solid red;
 }
 
 .topnav a:hover {
-  background-color: #169dd5;
-  color: red;
-  border: 3px solid red;
+  background-color: #00ab36;
+  color: white;
+  border: 3px solid white;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
@@ -179,7 +231,7 @@ background-color: #98c13d !important;
   color: #00ab36;
   cursor: pointer;
   border-radius: 25px;
-  border: 3px solid #169dd5;
+  border: 3px solid red;
 }
 
 
@@ -190,3 +242,176 @@ iframe.myframe1 {
 iframe.myframe2 {
     background: #98c13d;
 }
+
+iframe {
+  margin-top: 20px;
+  width: 400px;
+}
+
+.icons {
+     width: 20px;
+     padding: 0px;
+}
+
+@media screen and (min-width: 321px) {
+.icons {
+     width: 40px;
+     padding: 1px;
+}
+}
+
+@media screen and (min-width: 480px) {
+.icons {
+     width: 40px;
+     padding: 2px;
+}
+}
+
+@media screen and (min-width: 640px) {
+.icons {
+     width: 50px;
+     padding: 5px;
+}
+}
+
+
+.iconpy {
+    width:  54px;
+    height: 71px;
+}
+.iconpytl {
+    width:  34px;
+    height: 55px;
+}
+
+@media screen and (min-width: 320px) {
+.iconpy {
+    width:  61px;
+    height: 81px;
+}
+.iconpytl {
+    width:  38px;
+    height: 63px;
+}
+}
+
+@media screen and (min-width: 360px) {
+.iconpy {
+    width:  72px;
+    height: 95px;
+}
+.iconpytl {
+    width:  45px;
+    height: 74px;
+}
+}
+
+
+.icon {
+    width:  54px;
+    height: 54px;
+}
+.icontl {
+    width:  54px;
+    height: 54px;
+}
+
+@media screen and (min-width: 320px) {
+.icon {
+    width:  61px;
+    height: 61px;
+}
+.icontl {
+    width:  61px;
+    height: 61px;
+}
+}
+
+@media screen and (min-width: 360px) {
+.icon {
+    width:  72px;
+    height: 72px;
+}
+.icontl {
+    width:  72px;
+    height: 72px;
+}
+}
+
+.iconframe {
+    border: thin solid #169dd5;
+}
+
+.iconframe:hover {
+    border: 1px solid red;
+}
+
+
+.bottommenu {
+    position: fixed;
+    bottom: 0;
+    overflow-x: auto; 
+    width: 100%;
+    left: 0px;
+}
+
+    
+.menutable {
+    border-collapse: collapse;
+    border: 1px solid red;
+    left: 0px;
+    min-width: 650px;
+    width: 100%;
+    height: 1em;
+    table-layout: auto;
+}
+
+
+.imglink {
+    display: block;
+    width: 100%;
+    text-decoration: none;
+    color: #169dd5;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.imglink:hover {
+    text-decoration: none;
+    color: red;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.imglink:active {
+    font-style: italic;
+}
+
+
+@media screen and (max-device-width: 640px) {
+
+.menutable { 
+    min-width: 760px;
+    height: 1.25em;
+}
+
+.imglink {
+    font-size: 1.25em;
+}
+
+.imglink:hover {
+    text-decoration: none;
+    font-style: normal;
+}
+
+}
+
+.menutable td {
+    padding-left: 5px;
+    padding-right: 5px;
+
+    text-align: center;
+    white-space: nowrap;
+}
+© 2022 GitHub, Inc.
+
