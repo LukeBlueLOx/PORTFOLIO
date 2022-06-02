@@ -235,15 +235,15 @@ background-color: #98c13d !important;
 }
 
 
-iframe.myframe1 {
+fbiframe.myframe1 {
     background: #169dd5;
 }
 
-iframe.myframe2 {
+fbiframe.myframe2 {
     background: #98c13d;
 }
 
-iframe {
+fbiframe {
   margin-top: 20px;
   width: 400px;
 }
