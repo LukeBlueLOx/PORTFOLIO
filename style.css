@@ -235,20 +235,14 @@ background-color: #98c13d !important;
 }
 
 
-fbiframe.myframe1 {
+iframe.myframe1 {
     background: #169dd5;
     border: 1px solid red;
 }
 
-fbiframe.myframe2 {
+iframe.myframe2 {
     background: #98c13d;
     border: 1px solid red;
-}
-
-fbiframe {
-  margin-top: 20px;
-  width: 400px;
-  border: 1px solid red;
 }
 
 .icons {
