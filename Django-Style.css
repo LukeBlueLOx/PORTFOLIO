@@ -242,19 +242,18 @@ color: red;
 
 .bottommenu {
     position: fixed;
-    bottom: 0;
-    overflow-x: auto; 
+    overflow-x: auto;
+    bottom: 0; 
     width: 100%;
     left: 0px;
 }
 
-    
 .menutable {
     border-collapse: collapse;
     border: 1px solid red;
     left: 0px;
-    min-width: 650px;
     width: 100%;
+    min-width: 650px;
     height: 1em;
     table-layout: auto;
 }
@@ -263,6 +262,7 @@ color: red;
 .imglink {
     display: block;
     width: 100%;
+    border: 1px solid #98c13d;
     text-decoration: none;
     color: #169dd5;
     font-size: 18px;
@@ -270,10 +270,7 @@ color: red;
 }
 
 .imglink:hover {
-    text-decoration: none;
-    color: red;
-    font-size: 18px;
-    font-weight: 500;
+    border: 1px solid red;
 }
 
 .imglink:active {
@@ -304,8 +301,6 @@ color: red;
 .menutable td {
     padding-left: 5px;
     padding-right: 5px;
-
     text-align: center;
     white-space: nowrap;
 }
-
