@@ -76,7 +76,7 @@ background-color: #98c13d !important;
     font-weight: 700;
     margin: 4px 2px;
     cursor: pointer;
-    border-radius: 25px;
+    border-radius: 6px;
     border: 3px solid #169dd5;
 }
 
@@ -102,7 +102,7 @@ background-color: #98c13d !important;
     font-weight: 700;
     margin: 4px 2px;
     cursor: pointer;
-    border-radius: 25px;
+    border-radius: 6px;
     border: 3px solid #98c13d;
 }
 
@@ -178,7 +178,7 @@ background-color: #98c13d !important;
   color: #169dd5;
   cursor: pointer;
   padding: 15px;
-  border-radius: 25px;
+  border-radius: 6px;
 }
 
 #myBtn:hover {
@@ -215,7 +215,7 @@ background-color: #98c13d !important;
   right: 0;
   top: 0;
   cursor: pointer;
-  border-radius: 25px;
+  border-radius: 6px;
   border: 3px solid #169dd5;
 }
 
@@ -230,7 +230,7 @@ background-color: #98c13d !important;
   background-color: #313b4e;
   color: #00ab36;
   cursor: pointer;
-  border-radius: 25px;
+  border-radius: 6px;
   border: 3px solid #169dd5;
 }
 
