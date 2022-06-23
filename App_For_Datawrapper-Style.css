@@ -254,7 +254,7 @@ color: red;
     left: 0px;
     width: 100%;
     min-width: 650px;
-    height: 1em;
+    /*height: 1em;*/
     table-layout: auto;
 }
 
@@ -277,7 +277,7 @@ color: red;
 
 .menutable { 
     min-width: 760px;
-    height: 1.25em;
+    /*height: 1.25em;*/
 }
 
 .imglink {
