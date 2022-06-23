@@ -16,14 +16,14 @@ line-height: 0px;
 .english {
 font-weight: 500;
 font-family: "Arial";
-font-size: 30px;
+font-size: 22px;
 color: #169dd5
 }
 
 .polish {
 font-weight: 500;
 font-family: "Arial";
-font-size: 30px;
+font-size: 22px;
 color: #98c13d
 }
 
@@ -254,7 +254,7 @@ color: red;
     left: 0px;
     width: 100%;
     min-width: 650px;
-    /*height: 1em;*/
+    *height: 1em;
     table-layout: auto;
 }
 
@@ -277,7 +277,7 @@ color: red;
 
 .menutable { 
     min-width: 760px;
-    /*height: 1.25em;*/
+    height: 1.25em;
 }
 
 .imglink {
@@ -290,8 +290,6 @@ color: red;
 }
 
 }
-
-
 
 .menutable td {
     padding-left: 5px;
