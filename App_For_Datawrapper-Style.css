@@ -20,7 +20,8 @@ font-weight: 500;
 font-family: "Arial";
 font-size: 22px;
 color: #169dd5;
-width: 500px
+block-size: 500px;
+writing-mode: horizontal-tb;
 }
 
 .polish {
@@ -28,11 +29,8 @@ font-weight: 500;
 font-family: "Arial";
 font-size: 22px;
 color: #98c13d;
-width: 500px
-}
-
-.div {
-width: 500px
+block-size: 500px;
+writing-mode: horizontal-tb;
 }
 
 
