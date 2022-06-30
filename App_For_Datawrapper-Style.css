@@ -20,6 +20,9 @@ font-weight: 500;
 font-family: "Arial";
 font-size: 22px;
 color: #169dd5;
+block-size: 500px;
+background-color: #313b4e;
+writing-mode: horizontal-tb;
 }
 
 .polish {
@@ -27,13 +30,13 @@ font-weight: 500;
 font-family: "Arial";
 font-size: 22px;
 color: #98c13d;
-}
-
-.blockText {
 block-size: 500px;
 background-color: #313b4e;
 writing-mode: horizontal-tb;
 }
+
+/*.blockText {
+}*/
 
 
 DIV.buttons {
