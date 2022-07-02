@@ -3,7 +3,6 @@ background: #169dd5;
 height: 9px;
 border: 1px;
 line-height: 0px;
-margin: 0px 0px;
 }
 
 .hr2 {
@@ -11,7 +10,6 @@ background: #98c13d;
 height: 9px;
 border: 1px;
 line-height: 0px;
-margin: 0px 0px;
 }
 
 
@@ -20,9 +18,6 @@ font-weight: 500;
 font-family: "Arial";
 font-size: 22px;
 color: #169dd5;
-block-size: 500px;
-background-color: #313b4e;
-writing-mode: horizontal-tb;
 }
 
 .polish {
@@ -30,9 +25,6 @@ font-weight: 500;
 font-family: "Arial";
 font-size: 22px;
 color: #98c13d;
-block-size: 500px;
-background-color: #313b4e;
-writing-mode: horizontal-tb;
 }
 
 /*.blockText {
