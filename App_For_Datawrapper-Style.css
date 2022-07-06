@@ -39,7 +39,8 @@ font-size: 22px;
 color: #98c13d;
 }
 
-.link1 {text-decoration: none;
+.link1 {
+text-decoration: underline;
 font-weight: 500;
 font-family: "Arial";
 font-size: 22px;
@@ -47,6 +48,7 @@ color: #169dd5;
 }
 
 .link1:hover {
+text-decoration: underline;
 color:red;
 }
 
