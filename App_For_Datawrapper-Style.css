@@ -14,7 +14,7 @@ margin: 0px;
 
 .english.h {
 font-weight: 500;
-font-family: "Arial";
+font-family: "Ubuntu";
 font-size: 24px;
 color: #169dd5;
 
@@ -38,7 +38,7 @@ width: 99%;
 
 .polish {
 font-weight: 500;
-font-family: "Arial";
+font-family: "Ubuntu";
 font-size: 22px;
 color: #98c13d;
 }
@@ -46,7 +46,7 @@ color: #98c13d;
 .link1 {
 text-decoration: underline;
 font-weight: 500;
-font-family: "Arial";
+font-family: "Ubuntu";
 font-size: 22px;
 color: #169dd5;
 }
@@ -74,7 +74,7 @@ DIV.buttons {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-family: "Arial";
+    font-family: "Ubuntu";
     font-size: 22px;
     font-weight: 500;
     margin: 4px 2px;
@@ -100,7 +100,7 @@ DIV.buttons {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-family: "Arial";
+    font-family: "Ubuntu";
     font-size: 22px;
     font-weight: 500;
     margin: 4px 2px;
@@ -126,7 +126,7 @@ DIV.buttons {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-family: "Arial";
+    font-family: "Ubuntu";
     font-size: 22px;
     font-weight: 500;
     margin: 4px 2px;
@@ -152,7 +152,7 @@ DIV.buttons {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-family: "Arial";
+    font-family: "Abuntu";
     font-size: 22px;
     font-weight: 500;
     margin: 4px 2px;
