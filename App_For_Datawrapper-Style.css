@@ -331,7 +331,6 @@ color: red;
 }
 
 
-/*
 /* ubuntu-regular - latin */
 @font-face {
   font-family: 'Ubuntu';
@@ -384,4 +383,3 @@ color: red;
        url('../fonts/ubuntu-v20-latin-500italic.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/ubuntu-v20-latin-500italic.svg#Ubuntu') format('svg'); /* Legacy iOS */
 }
-*/
