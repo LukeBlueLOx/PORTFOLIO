@@ -308,6 +308,7 @@ color: red;
 
 audio::-webkit-media-controls-panel {
 background-color: #98c13d !important;
+border: 1px solid red;
 }
 
 iframe.myframe1 {
