@@ -304,3 +304,8 @@ color: red;
     text-align: center;
     white-space: nowrap;
 }
+
+
+audio::-webkit-media-controls-panel {
+background-color: #98c13d !important;
+}
