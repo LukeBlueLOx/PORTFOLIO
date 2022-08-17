@@ -320,3 +320,11 @@ iframe.myframe2 {
     background: #98c13d;
     border: 1px solid red;
 }
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
