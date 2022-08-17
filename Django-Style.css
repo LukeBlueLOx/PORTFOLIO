@@ -328,3 +328,11 @@ iframe.myframe2 {
   min-width: 100%;
   min-height: 100%;
 }
+
+}
+
+.content {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+}
