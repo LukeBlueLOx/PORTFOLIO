@@ -331,4 +331,7 @@ iframe.myframe2 {
 
 .content {
   position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
 }
