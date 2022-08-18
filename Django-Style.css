@@ -27,6 +27,18 @@ font-size: 22px;
 color: #98c13d
 }
 
+.link1 {
+text-decoration: underline;
+font-weight: 500;
+font-family: "Ubuntu";
+font-size: 22px;
+color: #169dd5;
+}
+
+.link1:hover {
+text-decoration: underline;
+color:red;
+}
 
 .col.l90 {
 width: 90%;
