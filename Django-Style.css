@@ -27,7 +27,7 @@ font-size: 22px;
 color: #98c13d
 }
 
-.english-justify {
+.enjustify {
 font-weight: 500;
 font-family: "Arial";
 font-size: 22px;
@@ -36,7 +36,7 @@ text-align: justify;
 text-justify: inter-word;
 }
 
-.polish-justify {
+.pljustify {
 font-weight: 500;
 font-family: "Arial";
 font-size: 22px;
