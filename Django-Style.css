@@ -27,6 +27,22 @@ font-size: 22px;
 color: #98c13d
 }
 
+.english-justify {
+font-weight: 500;
+font-family: "Arial";
+font-size: 22px;
+color: #169dd5;
+justify-content: space-around;
+}
+
+.polish-justify {
+font-weight: 500;
+font-family: "Arial";
+font-size: 22px;
+color: #98c13d;
+justify-content: space-around;
+}
+
 .link1 {
 text-decoration: underline;
 font-weight: 500;
