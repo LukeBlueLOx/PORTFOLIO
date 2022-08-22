@@ -27,20 +27,7 @@ font-size: 22px;
 color: #98c13d
 }
 
-.enjustify {
-font-weight: 500;
-font-family: "Arial";
-font-size: 22px;
-color: #169dd5;
-text-align: justify;
-text-justify: inter-word;
-}
-
-.pljustify {
-font-weight: 500;
-font-family: "Arial";
-font-size: 22px;
-color: #98c13d;
+.justify {
 text-align: justify;
 text-justify: inter-word;
 }
