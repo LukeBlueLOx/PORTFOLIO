@@ -12,6 +12,13 @@ border: 1px;
 margin: 0px 0px; 
 }
 
+.english.h {
+font-weight: 400;
+font-family: "Ubuntu";
+font-size: 24px;
+color: #169dd5;
+
+}
 
 .english {
 font-weight: 300;
