@@ -47,6 +47,19 @@ text-decoration: underline;
 color:red;
 }
 
+.link1.h {
+text-decoration: underline;
+font-weight: 500;
+font-family: "Ubuntu";
+font-size: 24px;
+color: #169dd5;
+}
+
+.link1.h:hover {
+text-decoration: underline;
+color:red;
+}
+
 .link2 {
 text-decoration: underline;
 font-weight: 300;
